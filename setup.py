@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-    name = 'TroykaCap',
+    name = 'TroykaCapPython',
     version = '1.0',
-    description = 'TroykaCap',
+    description = 'TroykaCapPython',
     author = 'acosinwork',
     author_email = 'vasily@amperka.ru',
     url = 'amperka.ru',
